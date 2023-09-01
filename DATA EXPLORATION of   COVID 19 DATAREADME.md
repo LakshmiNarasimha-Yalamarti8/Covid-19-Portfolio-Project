@@ -7,7 +7,6 @@
 Select * From dbo.CovidDeaths
 Where continent is not null
 order by 3,4
-
 /*
 # Select Data that we are going to be starting with 
 */
